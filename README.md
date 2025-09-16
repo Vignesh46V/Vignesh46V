@@ -82,7 +82,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-      <img width="30" src="https://www.yessinfotech.com/spring-boot/spring-boot-logo/" alt="websocket" title="SpringBoot"/>
+      <img width="30" src="https://worldvectorlogo.com/logo/spring-boot-1" alt="websocket" title="SpringBoot"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
     </kbd>
      <kbd>
